@@ -1,5 +1,7 @@
 body{
-    background-color: #72C6D6;
+    /* background-color: #72C6D6; */
+    background: url(the-workspace-of-a-blogger-or-freelancer-flat-lay-with-a-keyboard-notebooks-and-lilac-branches-stationery-on-a-lilac-background-with.jpg) no-repeat center center fixed;
+    background-size: cover;
     width: 100%;
     height: 100vh;
     margin: 0;
@@ -9,14 +11,14 @@ body{
 
 h1{
     text-align: center;
-    color: #FDFEFE;
+    color: white;
     margin: 0.5em auto;
 }
 
 p{
     font-size: 20px;
     text-align: center;
-    color: #FDFEFE;
+    color: white;
     margin-bottom: 2em;
 }
 

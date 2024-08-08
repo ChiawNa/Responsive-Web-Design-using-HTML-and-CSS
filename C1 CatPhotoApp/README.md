@@ -29,7 +29,7 @@ To view the CatPhotoApp, simply clone this repository and open the index.html fi
    ```bash
    git clone https://github.com/ChiawNa/Responsive-Web-Design-using-HTML-and-CSS.git
 
-2. cd C1 CatPhotoApp
+2. cd cd Responsive-Web-Design-using-HTML-and-CSS\C1 CatPhotoApp
    
 3. Open main.html
 

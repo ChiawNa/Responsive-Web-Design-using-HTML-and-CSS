@@ -37,3 +37,10 @@ To view the painting,
 
 1. Open `index.html` in a web browser.
 2. View the Rothko-inspired painting within the framed canvas.
+
+
+## Result
+
+<div align="left">
+  <img src="https://github.com/user-attachments/assets/1557a279-27d7-4f92-b827-3fe9487c8a4c" alt="book list" width="300" />
+</div>

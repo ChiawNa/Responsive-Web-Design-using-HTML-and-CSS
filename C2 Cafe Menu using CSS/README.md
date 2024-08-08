@@ -19,7 +19,7 @@ This project showcases a simple cafe menu for "Camper Cafe." It displays a list 
    ```bash
    git clone https://github.com/ChiawNa/Responsive-Web-Design-using-HTML-and-CSS.git
 
-2. cd C2 Cafe Menu using CSS
+2. cd Responsive-Web-Design-using-HTML-and-CSS\C2 Cafe Menu using CSS
 3. Open index.html
 
 ## Results

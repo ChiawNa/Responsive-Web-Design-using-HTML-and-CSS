@@ -35,7 +35,21 @@ The CSS file includes:
 1. Open `index.html` in your web browser to view the colored markers.
 2. Edit `styles.css` to customize the appearance of the markers as needed.
 
-## Dependencies
+## Installation
+To view the CatPhotoApp, simply clone this repository and open the index.html file in your web browser.
 
-No external libraries or frameworks are required for this project.
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/ChiawNa/Responsive-Web-Design-using-HTML-and-CSS.git
+
+2. cd Responsive-Web-Design-using-HTML-and-CSS\C3 Set of Colored Markers using CSS colors
+   
+3. Open index.html
+
+## Result
+
+<div align="left">
+   <img src="https://github.com/user-attachments/assets/bf95bc0a-db7a-493e-addd-6a4671225708" alt="book list" width="300" />
+</div>
+
 

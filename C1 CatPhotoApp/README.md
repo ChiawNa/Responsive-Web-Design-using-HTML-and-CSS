@@ -10,6 +10,9 @@ The app features:
 - A form for users to submit their own cat photos and information
 
 ## Features
+![Static Badge](https://img.shields.io/badge/freecodecamp-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white)
+![Static Badge](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
+![Static Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
 
 - **Cat Photos:** Displays a link to view more cat photos and an image of a cute orange cat.
 - **Cat Lists:** Shows lists of things cats love and hate, including images and captions.
@@ -17,6 +20,7 @@ The app features:
   - Whether their cat is indoor or outdoor
   - Their cat's personality traits
   - A URL for a cat photo
+
 
 ## Installation
 To view the CatPhotoApp, simply clone this repository and open the index.html file in your web browser.

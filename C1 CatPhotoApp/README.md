@@ -17,3 +17,8 @@ The app features:
   - Whether their cat is indoor or outdoor
   - Their cat's personality traits
   - A URL for a cat photo
+
+## Installation
+1. Clone the repository:
+   ```bash
+   git clone 

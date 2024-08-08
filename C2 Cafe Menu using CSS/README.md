@@ -1,6 +1,4 @@
 # Cafe Menu
-
-## Description
 This project showcases a simple cafe menu for "Camper Cafe." It displays a list of coffee and dessert options along with their prices. The menu also includes images for coffee and desserts.
 
 ## Features
@@ -24,3 +22,7 @@ This project showcases a simple cafe menu for "Camper Cafe." It displays a list 
 2. cd C2 Cafe Menu using CSS
 3. Open index.html
 
+## Results
+<div align="center">
+   <img src="https://github.com/user-attachments/assets/db61fd52-ebe8-4127-9bfc-afcfe298717c" alt="book list" height="300" width="500" />
+</div>

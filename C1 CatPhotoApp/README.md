@@ -1,7 +1,7 @@
 # Cat Photo App
 
 ## Description
-CatPhotoApp is a simple web application designed to showcase cat photos and gather user submissions. 
+#### CatPhotoApp is a simple web application designed to showcase cat photos and gather user submissions. 
 
 The app features:
 
@@ -19,6 +19,10 @@ The app features:
   - A URL for a cat photo
 
 ## Installation
+#### To view the CatPhotoApp, simply clone this repository and open the index.html file in your web browser.
+
 1. Clone the repository:
    ```bash
-   git clone 
+   git clone https://github.com/ChiawNa/Responsive-Web-Design-using-HTML-and-CSS/tree/main/C1%20CatPhotoApp
+
+2. Open main.html

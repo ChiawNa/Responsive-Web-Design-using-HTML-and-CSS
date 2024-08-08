@@ -1,4 +1,5 @@
 # Cat Photo App
+CatPhotoApp is a simple web application designed to showcase cat photos and gather user submissions. 
 
  + [Description](#Description)
  + [Features](#Features)
@@ -6,7 +7,6 @@
  + [Results](#Results)
 
 ## Description
-CatPhotoApp is a simple web application designed to showcase cat photos and gather user submissions. 
 
 The app features:
 

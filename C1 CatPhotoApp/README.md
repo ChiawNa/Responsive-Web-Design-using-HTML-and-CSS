@@ -29,6 +29,3 @@ To view the CatPhotoApp, simply clone this repository and open the index.html fi
    ```bash
    git clone https://github.com/ChiawNa/Responsive-Web-Design-using-HTML-and-CSS/tree/main/C1%20CatPhotoApp
 2. Open main.html
-
-## License
-No Copyright - Free to use and modify.

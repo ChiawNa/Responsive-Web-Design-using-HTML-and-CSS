@@ -1,0 +1,137 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    height: 100vh; /* Full viewport height */
+    margin: 0;
+}
+
+html, body {
+    min-width: 290px;
+    color: #4d4e53;
+    background-color: #ffffff;
+    font-family: 'Open Sans', Arial, sans-serif;
+    line-height: 1.5;
+}
+
+#navbar {
+    position: fixed;
+    min-width: 290px;
+    top: 0;
+    left: 0;
+    width: 300px;
+    height: 100%;
+    border-right: solid rgba(0, 22, 22, 0.4);
+    background-color: #f4f4f4; 
+    overflow-y: auto; 
+}
+
+#navbar header{
+    border-bottom: 1px solid #000000;
+    padding: 10px 30px;
+    width: 100%;
+}
+
+#navbar ul{
+    list-style-type: none; 
+    padding-left: 0;
+    margin-left: 0;
+}
+
+#navbar ul li{
+    position: relative;
+    padding: 0;
+    box-sizing: border-box;
+    width: calc(100% -30px);
+}
+
+
+#navbar ul li::before {
+    content: "";
+    position: absolute;
+    left: 0; 
+    width: 100%;
+    border-bottom: 1px solid #000000;
+    bottom: 0;
+    z-index: -1; 
+}
+
+#navbar a {
+    display: block;
+    padding: 10px 30px;
+    color: #4d4e53;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+#main-doc {
+    margin-left: 300px; 
+    padding: 20px;
+    position: absolute;
+    margin-left: 310px;
+    padding: 20px;
+    margin-bottom: 110px;
+}
+
+header {
+    color: black;
+    font-size: 1.8em;
+    font-weight: thin;
+    display: block;
+}
+
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+}
+
+section article {
+    color: #4d4e53;
+    margin: 15px;
+    font-size: 0.96em;
+}
+
+section li {
+    margin: 15px 0px 0px 50px;
+}
+
+code {
+    font-size: monospace;
+    display: block;
+    white-space: pre-line;
+    line-height: 2;
+    background-color: #e5e7e9;
+    padding: 15px;
+    margin: 10px;
+    border-radius: 5px;
+}
+
+@media (max-width: 480px) {
+    #navbar {
+        font-size: 12px;
+    }
+
+    header {
+        font-size: 16px;
+    }
+
+    code {
+        font-size: 12px;
+    }
+}
+
+@media (max-width: 768px) {
+    #navbar {
+        width: 250px; 
+    }
+}
+
+
+
+

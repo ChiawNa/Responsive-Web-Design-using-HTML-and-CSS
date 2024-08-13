@@ -29,14 +29,7 @@ The page features a fixed navbar for easy navigation through the documentation, 
 - **Fixed Navbar:** The navigation bar remains fixed on the left side, providing easy access to different sections.
 - **Code Highlighting:** Code examples are displayed with proper styling for readability.
 
-## Getting Started
-
-### Prerequisites
-
-- A web browser (e.g., Chrome, Firefox, Safari)
-- Basic knowledge of HTML and CSS
-
-### Installation
+## Installation
 
 1. Clone the repository:
    ```bash

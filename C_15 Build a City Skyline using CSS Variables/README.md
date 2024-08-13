@@ -33,7 +33,15 @@ This project creates a city skyline with a background and foreground of building
 ### Background
 
 - **Daytime (default)**: Radial gradient background simulating a sunny day.
+  <div align="center">
+  <img src="https://github.com/user-attachments/assets/60c20278-57e6-404f-be6d-47cea23d627a" alt="book list" width="500" />
+</div>
+
 - **Nighttime (when screen width is less than 1000px)**: Radial gradient background simulating nighttime.
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/ab8c4298-7830-4533-9328-851c909ab449" alt="book list" width="400" />
+</div>
+
 
 ### Responsive Design
 

@@ -10,9 +10,10 @@ This project creates a city skyline with a background and foreground of building
 - `styles.css`: The CSS file containing styles for the buildings, windows, and background.
 
 ## Features
+![Static Badge](https://img.shields.io/badge/freecodecamp-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
-![Static Badge](https://img.shields.io/badge/freecodecamp-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white)
+
 1. **Responsive Design**: The layout adjusts based on screen width.
 2. **Day/Night Background**: Background color and gradient adjust to simulate light and dark conditions based on the screen width.
 

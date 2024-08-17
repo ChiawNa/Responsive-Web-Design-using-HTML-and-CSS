@@ -32,13 +32,13 @@ This project showcases a rotating Ferris wheel animation with cabins that change
 ## Result
 
 <div align="left">
-  <img src="https://github.com/user-attachments/assets/7c294d94-7009-4b54-9fde-307066396f2f" alt="book list" width="500" />
+  <img src="https://github.com/user-attachments/assets/7c294d94-7009-4b54-9fde-307066396f2f" alt="book list" width="300" />
 </div>
 
 <div align="left">
-  <img src="https://github.com/user-attachments/assets/e03568c4-c0ed-46b6-98af-2aff9b785713" alt="book list" width="500" />
+  <img src="https://github.com/user-attachments/assets/e03568c4-c0ed-46b6-98af-2aff9b785713" alt="book list" width="300" />
 </div>
 
 <div align="left">
-  <img src="https://github.com/user-attachments/assets/39176415-f9f4-41e1-8961-6424d408d174" alt="book list" width="500" />
+  <img src="https://github.com/user-attachments/assets/39176415-f9f4-41e1-8961-6424d408d174" alt="book list" width="300" />
 </div>

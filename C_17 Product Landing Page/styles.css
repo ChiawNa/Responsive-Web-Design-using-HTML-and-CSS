@@ -17,7 +17,7 @@ body {
     justify-content: space-between;
     align-items: center;
     background-color: #ffffff;
-    z-index: 1000; /* Keeps the header above other content */
+    z-index: 1000; 
 }
 
 #header-img {

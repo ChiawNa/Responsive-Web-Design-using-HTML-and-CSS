@@ -4,8 +4,11 @@
     box-sizing: border-box;
 }
 
+html {
+    scroll-behavior: smooth; 
+}
+
 body{
-    background: url(https://plus.unsplash.com/premium_photo-1674729243673-0b5e871a8a24?q=80&w=1870&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D) no-repeat center center fixed;
     min-height: 100vh;
     overflow-x: hidden;
 }
@@ -32,11 +35,12 @@ li {
 }
 
 #navbar {
-    position: relative;
+    position: fixed;
     top: 0;
     left: 0;
     width: 100%;
-    z-index: 1000; /* Ensure it stays on top of other content */
+    z-index: 1000;
+    background-color: #95adb6;
 }
 
 #navbar a {
@@ -49,7 +53,7 @@ li {
 #welcome-section{
     color:#000000;
     width: 100%;
-    height: 50vh;
+    height: 100vh;
 
     display: flex;
     flex-direction: row;
@@ -57,6 +61,7 @@ li {
     align-items: center;
 
     font-family: 'Lora', serif;
+    background-color: #81d2f3;
 }
 
 .name{
@@ -68,7 +73,7 @@ li {
 }
 
 b{
-    color: white;
+    color: #0069b1;
 }
 
 h1{
@@ -106,6 +111,7 @@ h2{
 .projects-section {
     text-align: center;
     padding: 5rem 2rem;
+    background-color: #95adb6;
 }
 
 .project-grid {
@@ -120,6 +126,10 @@ h2{
 
 .project-title{
     font-size: 20px;
+    background-color: black;
+    color:white;
+    width: 300px;
+    object-position: center;
 }
 
 .project-tile{
@@ -144,6 +154,16 @@ h2{
 a{
     text-decoration: none;
     color: #000000;
+}
+
+#contact{
+    background-color: #81d2f3;
+    height: 90vh;
+    padding-top: 3rem ;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }
 
 #contact .header{
@@ -176,6 +196,7 @@ footer{
     border-top: 0.2rem solid black;
     text-align: center;
     font-size: 20px;
+    background-color: #81d2f3;
 }
 
 footer > p{
